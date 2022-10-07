@@ -14,7 +14,7 @@ primeiro para dispositivos móveis, e conforme o viewport (tela do usuário) aum
 o conteúdo da pagina se adequa.
 
 
-###Pontos importantes
+### Pontos importantes
 
 
 - [x] Site Responsivo  
