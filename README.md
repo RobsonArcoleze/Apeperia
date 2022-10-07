@@ -17,7 +17,7 @@ o conteúdo da pagina se adequa.
 ###Pontos importantes
 
 
--[x] Site Responsivo
--[x] Site Semântico
--[x] Código estruturado
+- [x] Site Responsivo  
+- [x] Site Semântico  
+- [x] Código estruturado
 
