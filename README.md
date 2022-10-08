@@ -20,4 +20,3 @@ o conteúdo da pagina se adequa.
 - [x] Site Responsivo  
 - [x] Site Semântico  
 - [x] Código estruturado
-
